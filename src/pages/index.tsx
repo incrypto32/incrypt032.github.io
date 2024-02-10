@@ -19,7 +19,7 @@ export default function Home() {
         <title>Krishna</title>
         <meta
           name="description"
-          content="Hi Im Krishnanand V P, Developer Success Engineer @ Edge & Node, Working on The Graph"
+          content="Hi Im Krishnanand V P, Rust Engineer @ Edge & Node, Working on The Graph"
         />
         <meta property="og:title" content="Krishna" />
         <meta property="og:type" content="website" />
@@ -30,7 +30,7 @@ export default function Home() {
         />
         <meta
           property="og:description"
-          content="Hi Im Krishnanand V P, Developer Success Engineer @ Edge & Node, Working on The Graph"
+          content="Hi Im Krishnanand V P, Rust Engineer @ Edge & Node, Working on The Graph"
         />
 
         <meta name="viewport" content="width=device-width, initial-scale=1" />
