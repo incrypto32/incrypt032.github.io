@@ -14,13 +14,13 @@ const MainBio = () => {
       {/* Responsive image */}
       <div className={styles.profileImg}>
         <Image
-          src="/images/profile.jpg"
+          src="/images/krishna.jpeg"
           alt="Krishna"
           width={200}
           height={200}
         />
       </div>
-      <h1>{"Hi, I'm Krishna"} 👋🏻</h1>
+      <h1>{"Hi, I'm Krishnanand"} 👋🏻</h1>
 
       <p className={styles.bio}>
         {`Greetings! I'm a software engineer with a passion for web3 and innovative technologies. Currently at Edge & Node, I work on The Graph — a blockchain indexing protocol. I excel in debugging, problem-solving, and possess diverse skills in programming languages like Rust, Golang, Dart and Typescript and frameworks like React, Vue and Flutter. But what truly sets me apart is my insatiable thirst for learning. Always eager to expand my knowledge, I embrace new programming languages and creative problem-solving approaches. Let's create revolutionary solutions together!`}{' '}

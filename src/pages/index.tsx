@@ -26,7 +26,7 @@ export default function Home() {
         <meta property="og:url" content="https://www.krishna.dev/" />
         <meta
           property="og:image"
-          content="https://www.krishna.dev/images/profile.jpg"
+          content="https://www.krishna.dev/images/krishna.jpeg"
         />
         <meta
           property="og:description"
