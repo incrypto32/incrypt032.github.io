@@ -14,7 +14,7 @@ const MainBio = () => {
       {/* Responsive image */}
       <div className={styles.profileImg}>
         <Image
-          src="/images/krishna.jpeg"
+          src="/images/krishna.jpg"
           alt="Krishna"
           width={200}
           height={200}
