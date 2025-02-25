@@ -12,14 +12,14 @@ const MainBio = () => {
   return (
     <div className={styles.main}>
       {/* Responsive image */}
-      <div className={styles.profileImg}>
+      {/* <div className={styles.profileImg}>
         <Image
           src="/images/krishna.jpg"
           alt="Krishna"
           width={200}
           height={200}
         />
-      </div>
+      </div> */}
       <br />
       <h1>{"Hi, I'm Krishnanand"} 👋🏻</h1>
       <br />
